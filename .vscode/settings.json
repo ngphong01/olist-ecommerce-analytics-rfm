@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "E-Commerce SQLite DB",
+      "driver": "SQLite",
+      "database": "${workspaceFolder}/data/ecommerce.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
